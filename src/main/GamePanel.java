@@ -36,15 +36,20 @@ public class GamePanel extends JPanel implements Runnable {
     public CheckCollision cChecker = new CheckCollision(this);
 
     public Player player = new Player(this, keyH);
-    public Entity Monster[] = new Entity[10];
+    public Entity Monsters[] = new Entity[10];
+
 
     // ── Make sure qLoader is instantiated BEFORE we call loadQuestions:
     public Questions qLoader = new Questions(null, null);
 
     // Game state
     public int gameState;
+
+    public final int initialState = 0;
     public final int playState = 1;
     public final int pauseState = 2;
+
+    public final int endingState = 3;
 
     public GamePanel() {
         this.setPreferredSize(new Dimension(screenWidth, screenHeight));
@@ -62,16 +67,27 @@ public class GamePanel extends JPanel implements Runnable {
         setUpGame();
     }
 
+
+
     public void setUpGame() {
         setMonster();
-        gameState = playState;
+        gameState = initialState;
     }
 
     public void setMonster() {
-        Monster[0] = new Monster(this);
+        Monsters[0] = new Monster(this);
         // Place the monster at tile (21, 21):
-        Monster[0].worldX = tileSize * 21;
-        Monster[0].worldY = tileSize * 21;
+        Monsters[0].worldX = tileSize * 21;
+        Monsters[0].worldY = tileSize * 21;
+    }
+
+    public void resetGame(){
+        Monsters[0].worldX = tileSize * 21;
+        Monsters[0].worldY = tileSize * 21;
+        Monster monster1= (Monster) Monsters[0];
+        monster1.disablePathingFor10Seconds();
+        player.setDefaultValues();
+
     }
 
     public void startGameThread() {
@@ -103,9 +119,9 @@ public class GamePanel extends JPanel implements Runnable {
     public void update() {
         if (gameState == playState) {
             player.update();
-            for (int i = 0; i < Monster.length; i++) {
-                if (Monster[i] != null) {
-                    Monster[i].update();
+            for (int i = 0; i < Monsters.length; i++) {
+                if (Monsters[i] != null) {
+                    Monsters[i].update();
                 }
             }
         }
@@ -120,9 +136,9 @@ public class GamePanel extends JPanel implements Runnable {
         tileM.draw(g2);
 
         // 2) Draw monsters (their sprites)
-        for (int i = 0; i < Monster.length; i++) {
-            if (Monster[i] != null) {
-                Monster[i].draw(g2);
+        for (int i = 0; i < Monsters.length; i++) {
+            if (Monsters[i] != null) {
+                Monsters[i].draw(g2);
             }
         }
 

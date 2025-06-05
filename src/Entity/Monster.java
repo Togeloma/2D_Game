@@ -225,7 +225,7 @@ public class Monster extends Entity {
                 disablePathingFor10Seconds(); // monster waits again
             } else {
                 JOptionPane.showMessageDialog(null, "Wrong! Game Over.");
-                System.exit(0);
+                gp.gameState = gp.endingState;
             }
         } else if (monsterCol != playerCol || monsterRow != playerRow) {
             // Reset flag if monster leaves the player's tile

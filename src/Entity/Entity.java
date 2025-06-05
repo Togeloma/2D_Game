@@ -23,6 +23,7 @@ public class Entity {
     }
 
     public void setAction(){};
+
     public void update(){
         setAction();
         collisionOn = false;

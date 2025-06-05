@@ -53,12 +53,23 @@ public class UI {
         else{
             g2.setColor(Color.white);
             g2.setFont(new Font("Arial", Font.PLAIN, 40));
+
+            if (gp.gameState == gp.initialState){
+
+            }
+
             if(gp.gameState== gp.playState){
                 playTime += (double) 1/60;
                 g2.drawString("Time= "+ dFormat.format(playTime),gp.tileSize*11, 65 );
             }
             if (gp.gameState == gp.pauseState){
                 drawPauseScreen();
+            }
+            if(gp.gameState==gp.initialState){
+                drawStartMenuScreen();
+            }
+            if(gp.gameState==gp.endingState){
+                drawEndingState();
             }
 
         }
@@ -71,5 +82,37 @@ public class UI {
         x= gp.screenWidth/2 - length/2;
         int y = gp.screenHeight/2;
         g2.drawString(text, x, y);
+    }
+
+    public void drawStartMenuScreen(){
+        String text= "Welcome";
+        int x;
+        int length = (int) g2.getFontMetrics().getStringBounds(text, g2).getWidth();
+        x= gp.screenWidth/2 - length/2;
+        int y = gp.screenHeight/2;
+        g2.drawString(text, x, y);
+
+        String text1= "Press Space to start the game";
+
+        length = (int) g2.getFontMetrics().getStringBounds(text, g2).getWidth();
+        x= gp.screenWidth/2 - length/2;
+        y = gp.screenHeight/2-60;
+        g2.drawString(text1, x, y);
+    }
+
+    public void drawEndingState(){
+        String text= "GameOver, You lose";
+        int x;
+        int length = (int) g2.getFontMetrics().getStringBounds(text, g2).getWidth();
+        x= gp.screenWidth/2 - length/2;
+        int y = gp.screenHeight/2;
+        g2.drawString(text, x, y);
+
+        String text1= "Press Space to restart the game";
+
+        length = (int) g2.getFontMetrics().getStringBounds(text, g2).getWidth();
+        x= gp.screenWidth/2 - length/2;
+        y = gp.screenHeight/2-60;
+        g2.drawString(text1, x, y);
     }
 }

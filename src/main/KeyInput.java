@@ -22,24 +22,37 @@ public KeyInput(GamePanel gp){
 
         int code = e.getKeyCode();
 
-        if (code == KeyEvent.VK_W) {
-            upPressed = true;
-        }
-        if (code == KeyEvent.VK_S) {
-            downPressed = true;
-        }
-        if (code == KeyEvent.VK_A) {
-            leftPressed = true;
-        }
-        if (code == KeyEvent.VK_D) {
-            rightPressed = true;
-        }
-        if (code == KeyEvent.VK_SPACE) {
-            if(gp.gameState==gp.playState){
-                gp.gameState=gp.pauseState;
-            }
-            else if (gp.gameState==gp.pauseState){
+        if(gp.gameState==gp.initialState){
+            if (code == KeyEvent.VK_SPACE) {
                 gp.gameState=gp.playState;
+            }
+        }else if (gp.gameState==gp.playState){
+            if (code == KeyEvent.VK_W) {
+                upPressed = true;
+            }
+            if (code == KeyEvent.VK_S) {
+                downPressed = true;
+            }
+            if (code == KeyEvent.VK_A) {
+                leftPressed = true;
+            }
+            if (code == KeyEvent.VK_D) {
+                rightPressed = true;
+            }
+            if (code == KeyEvent.VK_SPACE) {
+                    gp.gameState=gp.pauseState;
+            }
+        }else if(gp.gameState==gp.pauseState){
+            if (code == KeyEvent.VK_SPACE) {
+                gp.gameState=gp.playState;
+            }
+        }else if(gp.gameState==gp.endingState){
+            if (code == KeyEvent.VK_SPACE) {
+                gp.resetGame();
+                gp.gameState=gp.initialState;
+            }
+            if (code == KeyEvent.VK_ESCAPE) {
+                System.exit(0);
             }
         }
 
