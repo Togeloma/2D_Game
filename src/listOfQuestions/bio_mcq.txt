@@ -1,0 +1,200 @@
+1. Which organelle is primarily responsible for ATP production in eukaryotic cells? A. Nucleus B. Ribosome C. Mitochondrion D. Golgi apparatus E. Lysosome
+C
+2. Which macromolecule is composed of amino acids linked by peptide bonds? A. Carbohydrates B. Lipids C. Nucleic acids D. Proteins E. Steroids
+D
+3. During DNA replication, which enzyme synthesizes a short RNA primer? A. DNA polymerase I B. DNA ligase C. RNA polymerase D. Primase E. Helicase
+D
+4. In Hardy-Weinberg equilibrium, the frequency of the homozygous recessive genotype is represented by which term? A. p^2 B. q^2 C. 2pq D. p E. q
+B
+5. Which blood vessel carries oxygen-rich blood from the lungs to the heart? A. Pulmonary artery B. Pulmonary vein C. Aorta D. Vena cava E. Coronary artery
+B
+6. Which process converts glucose to pyruvate in the cytosol? A. Krebs cycle B. Electron transport chain C. Glycolysis D. Calvin cycle E. Fermentation
+C
+7. Which type of natural selection favors both extreme phenotypes over the intermediate? A. Stabilizing selection B. Directional selection C. Disruptive selection D. Balancing selection E. Sexual selection
+C
+8. Which of the following is not a product of the light reactions of photosynthesis? A. ATP B. NADPH C. Oxygen D. CO2 E. ADP
+D
+9. During transcription, RNA polymerase binds to which region of DNA? A. Operator B. Enhancer C. Promoter D. Origin of replication E. Terminator
+C
+10. Which structure in bacterial cells provides protection and adherence? A. Capsule B. Cell wall C. Flagellum D. Ribosome E. Nucleoid
+A
+11. What is the primary function of the smooth endoplasmic reticulum? A. Protein synthesis B. Lipid synthesis and detoxification C. ATP production D. DNA replication E. Photosynthesis
+B
+12. Which hormone regulates blood glucose by facilitating uptake of glucose into cells? A. Glucagon B. Insulin C. Epinephrine D. Cortisol E. Thyroxine
+B
+13. In a dihybrid cross between two heterozygotes (AaBb x AaBb), what is the phenotypic ratio? A. 9:3:3:1 B. 3:1 C. 1:1:1:1 D. 1:2:1 E. 9:7
+A
+14. Which process results in the shuffling of alleles during meiosis? A. Independent assortment B. DNA replication C. Binary fission D. Mitosis E. Transcription
+A
+15. Which biome is characterized by low precipitation and extreme temperature variations, with sparse vegetation? A. Tropical rainforest B. Temperate forest C. Desert D. Tundra E. Grassland
+C
+16. Which molecule carries amino acids to the ribosome during translation? A. mRNA B. rRNA C. tRNA D. DNA E. ATP
+C
+17. Which type of RNA is incorporated into the ribosome? A. mRNA B. tRNA C. rRNA D. snRNA E. miRNA
+C
+18. Which feedback mechanism reduces the output of a process to maintain homeostasis? A. Positive feedback B. Negative feedback C. Feedforward D. Amplification E. Irreversible inhibition
+B
+19. Which enzyme is responsible for unzipping DNA during replication? A. DNA ligase B. Topoisomerase C. Helicase D. Primase E. RNase
+C
+20. In aquatic ecosystems, which zone is the open, well-lit area near the surface? A. Benthic zone B. Abyssal zone C. Littoral zone D. Pelagic (photic) zone E. Aphotic zone
+D
+21. Which cellular junction forms a watertight seal between adjacent animal cells? A. Gap junction B. Desmosome C. Tight junction D. Plasmodesmata E. Adhesion belt
+C
+22. Which process produces the most ATP per glucose molecule? A. Glycolysis B. Fermentation C. Krebs cycle D. Oxidative phosphorylation (electron transport chain) E. Calvin cycle
+D
+23. What type of bond holds complementary base pairs in DNA? A. Ionic bond B. Covalent bond C. Hydrogen bond D. Peptide bond E. Phosphodiester bond
+C
+24. Which term describes a group of organisms of the same species that live in the same area? A. Community B. Ecosystem C. Population D. Biome E. Biosphere
+C
+25. During the light-independent reactions (Calvin cycle), carbon is fixed by which enzyme? A. Rubisco B. ATP synthase C. NADP+ reductase D. Phosphofructokinase E. DNA polymerase
+A
+26. In a pedigree chart, which symbol represents a female individual? A. Square B. Circle C. Filled circle D. Filled square E. Triangle
+B
+27. Which type of mutation results in a change in a single nucleotide without altering the amino acid sequence? A. Nonsense mutation B. Missense mutation C. Silent mutation D. Frameshift mutation E. Deletion
+C
+28. Which of the following is a density-dependent factor affecting population size? A. Natural disaster B. Weather C. Disease outbreak D. Drought E. Fire
+C
+29. Which nitrogenous base is found in RNA but not in DNA? A. Adenine B. Thymine C. Cytosine D. Uracil E. Guanine
+D
+30. Which structure permits movement of materials between plant cells? A. Gap junctions B. Desmosomes C. Tight junctions D. Plasmodesmata E. Synapses
+D
+31. Which organ system regulates body temperature and prevents water loss? A. Respiratory B. Digestive C. Integumentary D. Circulatory E. Nervous
+C
+32. Which term describes a symbiotic relationship in which both species benefit? A. Parasitism B. Commensalism C. Mutualism D. Predation E. Amensalism
+C
+33. Which process in eukaryotic cells involves the breakdown of macromolecules in lysosomes? A. Apoptosis B. Autophagy C. Exocytosis D. Endocytosis E. Translation
+B
+34. Which structure contains the genetic material in a prokaryotic cell? A. Nucleus B. Nucleoid region C. Mitochondrion D. Ribosome E. Chloroplast
+B
+35. During which phase of mitosis do sister chromatids separate? A. Prophase B. Metaphase C. Anaphase D. Telophase E. Interphase
+C
+36. Which type of RNA processing involves removal of introns? A. Capping B. Polyadenylation C. Splicing D. Transcription E. Translation
+C
+37. Which macromolecule stores genetic information? A. Lipids B. Carbohydrates C. Proteins D. Nucleic acids E. Polysaccharides
+D
+38. Which cellular structure is involved in protein sorting and packaging? A. Endoplasmic reticulum B. Golgi apparatus C. Ribosome D. Mitochondrion E. Lysosome
+B
+39. What is the genotype of a heterozygous individual? A. AA B. aa C. Aa D. BB E. Ab
+C
+40. Which process describes movement of water across a semipermeable membrane? A. Diffusion B. Osmosis C. Active transport D. Facilitated diffusion E. Endocytosis
+B
+41. Which cycle in prokaryotes breaks down organic molecules anaerobically? A. Krebs cycle B. Glycolysis C. Fermentation D. Calvin cycle E. Electron transport chain
+C
+42. Which vitamin is essential for blood clotting? A. Vitamin A B. Vitamin B12 C. Vitamin C D. Vitamin D E. Vitamin K
+E
+43. Which type of bond forms between the sugar and phosphate groups of nucleotides? A. Peptide bond B. Glycosidic bond C. Hydrogen bond D. Phosphodiester bond E. Ionic bond
+D
+44. Which of the following best describes an ecosystem? A. All living organisms in a region B. Interaction of living organisms with their physical environment C. Group of populations of different species D. Community of producers E. Biotic factors only
+B
+45. Which enzyme joins Okazaki fragments on the lagging strand during DNA replication? A. DNA polymerase I B. DNA polymerase III C. Ligase D. Helicase E. Primase
+C
+46. Which trophic level contains primary consumers? A. Producers B. Herbivores C. Carnivores D. Decomposers E. Detritivores
+B
+47. Which of the following is not a component of the cytoskeleton? A. Microtubules B. Intermediate filaments C. Cellulose fibers D. Actin filaments E. Microfilaments
+C
+48. Which gas is a byproduct of the Calvin cycle? A. Oxygen B. Carbon dioxide C. Glucose D. Water E. NADPH
+B
+49. Which organelle contains chlorophyll? A. Mitochondrion B. Chloroplast C. Peroxisome D. Vacuole E. Ribosome
+B
+50. Which hormone is secreted by the pancreas to raise blood glucose levels? A. Insulin B. Glucagon C. Cortisol D. Epinephrine E. Thyroxine
+B
+51. Which process results in four haploid cells from one diploid cell? A. Mitosis B. Meiosis C. Binary fission D. Budding E. Conjugation
+B
+52. Which nucleotide base pairs with guanine in DNA? A. Adenine B. Thymine C. Cytosine D. Uracil E. Guanine
+C
+53. Which of the following best describes genetic drift? A. Non-random mating B. Gene flow between populations C. Random changes in allele frequencies D. Natural selection E. Mutation
+C
+54. Which structure functions in cell motility? A. Ribosome B. Flagellum C. Golgi apparatus D. Endoplasmic reticulum E. Nucleus
+B
+55. Which process describes the uptake of specific molecules by endocytosis using receptor proteins? A. Phagocytosis B. Pinocytosis C. Receptor-mediated endocytosis D. Exocytosis E. Osmosis
+C
+56. Which animal tissue type is responsible for contraction and movement? A. Nervous tissue B. Epithelial tissue C. Connective tissue D. Muscle tissue E. Cartilage
+D
+57. Which molecule is a direct product of the Krebs cycle and enters the electron transport chain? A. NADH B. FADH2 C. CO2 D. ATP E. Pyruvate
+A
+58. Which process in cells produces NADPH and pentoses? A. Glycolysis B. Krebs cycle C. Pentose phosphate pathway D. Calvin cycle E. Fermentation
+C
+59. Which evolutionary mechanism introduces new alleles into a population? A. Genetic drift B. Gene flow C. Mutation D. Natural selection E. Nonrandom mating
+C
+60. Which type of selection maintains multiple alleles in a population by favoring heterozygotes? A. Directional selection B. Stabilizing selection C. Disruptive selection D. Balancing selection E. Sexual selection
+D
+61. Which cellular process breaks down glucose without oxygen? A. Aerobic respiration B. Anaerobic respiration (Fermentation) C. Photosynthesis D. Krebs cycle E. Electron transport chain
+B
+62. Which of the following is the liquid portion of blood? A. Red blood cells B. White blood cells C. Plasma D. Platelets E. Hemoglobin
+C
+63. Which group of organisms convert nitrogen gas to ammonia? A. Nitrobacter B. Azotobacter C. Rhizobium D. Escherichia coli E. Lactobacillus
+C
+64. Which condition in humans is caused by the absence of insulin production? A. Hypoglycemia B. Hyperglycemia C. Diabetes mellitus type 1 D. Graves’ disease E. Cushing’s syndrome
+C
+65. Which phylum includes animals with segmented bodies and jointed appendages? A. Mollusca B. Annelida C. Arthropoda D. Chordata E. Echinodermata
+C
+66. Which organelle detoxifies hydrogen peroxide by converting it to water and oxygen? A. Mitochondrion B. Peroxisome C. Lysosome D. Golgi apparatus E. Ribosome
+B
+67. During signal transduction, which molecule acts as a second messenger often released from the ER? A. DAG B. IP3 C. cAMP D. ATP E. Ca2+
+E
+68. Which process in prokaryotes involves transfer of genetic material by a phage? A. Conjugation B. Transformation C. Transduction D. Transpiration E. Trafficking
+C
+69. Which group of plants lacks vascular tissue? A. Mosses B. Ferns C. Gymnosperms D. Angiosperms E. Lycophytes
+A
+70. Which structure in the nephron is responsible for filtration of blood? A. Loop of Henle B. Glomerulus C. Proximal tubule D. Distal tubule E. Collecting duct
+B
+71. Which process describes programmed cell death? A. Necrosis B. Apoptosis C. Autophagy D. Endocytosis E. Exocytosis
+B
+72. Which biome has the highest net primary productivity? A. Desert B. Tropical rainforest C. Tundra D. Taiga E. Grassland
+B
+73. Which enzyme catalyzes the formation of cDNA from mRNA? A. DNA polymerase I B. Reverse transcriptase C. RNA polymerase D. Ligase E. Helicase
+B
+74. Which gas is required for aerobic respiration? A. CO2 B. O2 C. N2 D. CH4 E. H2
+B
+75. Which term describes the observable traits of an organism? A. Genotype B. Phenotype C. Allele D. Genome E. Chromosome
+B
+76. Which plant hormone is primarily responsible for cell elongation? A. Auxin B. Gibberellin C. Cytokinin D. Ethylene E. Abscisic acid
+A
+77. Which process produces ribosomes in the nucleus? A. Translation B. Transcription of rRNA C. Replication D. Splicing E. Capping
+B
+78. Which of the following is found in plant but not animal cells? A. Mitochondrion B. Chloroplast C. Golgi apparatus D. Ribosome E. Endoplasmic reticulum
+B
+79. Which term describes organisms that produce their own food using sunlight? A. Heterotrophs B. Decomposers C. Autotrophs D. Saprophytes E. Parasites
+C
+80. Which structure in an insect's exoskeleton provides support? A. Silica plates B. Chitin C. Cellulose D. Keratin E. Calcium carbonate
+B
+81. Which macromolecule serves as enzymes in cells? A. Carbohydrates B. Lipids C. Proteins D. Nucleic acids E. Polysaccharides
+C
+82. Which transport mechanism moves molecules against their concentration gradient using energy? A. Diffusion B. Osmosis C. Facilitated diffusion D. Active transport E. Filtration
+D
+83. Which process in bacteria involves uptake of free DNA from the environment? A. Conjugation B. Transformation C. Transduction D. Transpiration E. Transcription
+B
+84. Which of the following is the largest taxonomic category? A. Genus B. Family C. Order D. Class E. Phylum
+E
+85. Which layer of the earth's atmosphere is where most weather occurs? A. Troposphere B. Stratosphere C. Mesosphere D. Thermosphere E. Exosphere
+A
+86. Which term refers to different species living in the same area? A. Population B. Community C. Ecosystem D. Biome E. Biosphere
+B
+87. Which structure in the heart prevents backflow of blood into the atria? A. Semilunar valves B. AV valves (atrioventricular valves) C. Papillary muscles D. Chordae tendineae E. Interventricular septum
+B
+88. Which condition results from a buildup of LDL cholesterol in arteries? A. Atherosclerosis B. Hypertension C. Hypotension D. Anemia E. Leukemia
+A
+89. Which process describes the movement of ions across a membrane through protein channels without energy? A. Active transport B. Facilitated diffusion C. Endocytosis D. Exocytosis E. Osmosis
+B
+90. Which cranial nerve controls the sense of smell? A. Optic (II) B. Olfactory (I) C. Vagus (X) D. Trigeminal (V) E. Facial (VII)
+B
+91. Which molecule is the genetic material in retroviruses? A. dsDNA B. ssDNA C. dsRNA D. ssRNA E. mRNA
+D
+92. Which process in the carbon cycle involves the release of CO2 from decomposers? A. Photosynthesis B. Respiration C. Nitrogen fixation D. Transpiration E. Denitrification
+B
+93. Which of the following is a disaccharide? A. Glucose B. Fructose C. Sucrose D. Galactose E. Ribose
+C
+94. Which structure in the neuron conducts impulses away from the cell body? A. Dendrite B. Axon C. Soma D. Synapse E. Myelin sheath
+B
+95. Which blood type is the universal donor? A. A B. B C. AB D. O+ E. O-
+E
+96. Which type of muscle tissue is involuntary and branched? A. Skeletal muscle B. Smooth muscle C. Cardiac muscle D. Nervous tissue E. Connective tissue
+C
+97. Which process in plant cells produces oxygen as a byproduct? A. Cellular respiration B. Photosynthesis C. Fermentation D. Transpiration E. Glycolysis
+B
+98. Which molecule forms the double helix backbone along with phosphate groups? A. Amino acids B. Deoxyribose sugar C. Nitrogenous bases D. Ribose sugar E. Fatty acids
+B
+99. Which organ in humans is primarily responsible for detoxification and metabolic regulation? A. Kidney B. Liver C. Pancreas D. Lungs E. Spleen
+B
+100. Which process in ecology measures the total biomass produced by plants? A. Gross primary productivity (GPP) B. Net primary productivity (NPP) C. Secondary productivity D. Trophic efficiency E. Biomagnification
+A
